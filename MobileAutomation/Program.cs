@@ -52,7 +52,7 @@ namespace MobileAutomation
             try
             {
 
-                AppiumBuilder appiumBuilder
+              //  AppiumBuilder appiumBuilder
 
                 AppiumOptions opt = new AppiumOptions();
 
